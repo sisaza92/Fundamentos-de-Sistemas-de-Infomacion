@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<breakfast_menu>
+    <food>
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <description>
+            Two of our famous Belgian Waffles with plenty of real maple syrup
+        </description>
+        <calories>650</calories>
+    </food>
+    <food>
+        <name>Strawberry Belgian Waffles</name>
+        <price>$7.95</price>
+        <description>
+            Light Belgian waffles covered with strawberries and whipped cream
+        </description>
+        <calories>900</calories>
+    </food>
+</breakfast_menu>
